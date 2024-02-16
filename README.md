@@ -1,7 +1,7 @@
 - My name is Johnathan Lopez
-- I’m interested in Anything dealing with Computers and Developing them, Im currently studying more in the Web Development department but would love to Start taking courses and Learning Game Development As well!
-- I’m currently learning Python in my last unit of Generally Assembly!
-- I’m looking to collaborate on anything that will help me build my Software Devlopment Skills!
+- I use my breadth of skills and passions to ensure safety and usability.
+- I want to equip start-ups with efficient  websites and help pre existing businesses update and upgrade their websites to be the best it can in today's world.
+- I’m looking to collaborate on anything that will help further your project!
 - Feel Free to email me at JohnnyLopez0314@gmail.com
 
 <!---
